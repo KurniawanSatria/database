@@ -1,12 +1,49 @@
 {
   "creator": "@krniwnstria",
+  "unavaliable": [
+    "Akai",
+    "Franco",
+    "Lolita",
+    "Cyclops",
+    "Roger",
+    "Irithel",
+    "Grock",
+    "Hylos",
+    "Helcurt",
+    "Uranus",
+    "Belerick",
+    "Thamuz",
+    "Terizla",
+    "Baxia",
+    "Barats",
+    "Brody",
+    "Gloo",
+    "Phoveus",
+    "Aulus",
+    "Edith",
+    "Julian",
+    "Fredrinn",
+    "Joy",
+    "Novaria",
+    "Arlott",
+    "Ixia",
+    "Nolan",
+    "Cici",
+    "Chip",
+    "Zhuxin",
+    "Suyou",
+    "Lukas",
+    "Kalea"
+  ],
   "heroes": [
     {
-      "index": "1",
+      "number": "1",
       "name": "Miya",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Azrya Woodlands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Miya.id.select.ogg",
@@ -359,11 +396,13 @@
       ]
     },
     {
-      "index": "2",
+      "number": "2",
       "name": "Balmond",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero021-icon.png",
       "role": "Fighter",
       "lane": "Jungling",
       "region": "The Barren Lands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Balmond.id.select.ogg",
@@ -544,11 +583,13 @@
       ]
     },
     {
-      "index": "3",
+      "number": "3",
       "name": "Saber",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero031-icon.png",
       "role": "Assassin",
       "lane": "Jungling/Roaming",
       "region": "Laboratory 1718",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Saber.id.select.ogg",
@@ -893,11 +934,13 @@
       ]
     },
     {
-      "index": "4",
+      "number": "4",
       "name": "Alice",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero041-icon.png",
       "role": "Mage/Tank",
       "lane": "EXP Lane/Jungling",
       "region": "The Barren Lands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Alice.id.select.ogg",
@@ -966,11 +1009,13 @@
       ]
     },
     {
-      "index": "5",
+      "number": "5",
       "name": "Nana",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero051-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Azrya Woodlands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Nana.id.select.ogg",
@@ -1147,11 +1192,13 @@
       ]
     },
     {
-      "index": "6",
+      "number": "6",
       "name": "Tigreal",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero061-icon.png",
       "role": "Tank",
       "lane": "Roaming",
       "region": "Moniyan Empire",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Tigreal.id.select.ogg",
@@ -1236,11 +1283,13 @@
       ]
     },
     {
-      "index": "7",
+      "number": "7",
       "name": "Alucard",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png",
       "role": "Fighter/Assassin",
       "lane": "Jungling",
       "region": "Moniyan Empire",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Alucard.id.select.ogg",
@@ -1437,11 +1486,13 @@
       ]
     },
     {
-      "index": "8",
+      "number": "8",
       "name": "Karina",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Azrya Woodlands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Karina.id.select.ogg",
@@ -1630,11 +1681,13 @@
       ]
     },
     {
-      "index": "11",
+      "number": "11",
       "name": "Bane",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero111-icon.png",
       "role": "Fighter/Mage",
       "lane": "Jungling/EXP Lane",
       "region": "Northern Vale",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Bane.id.select.ogg",
@@ -1787,11 +1840,13 @@
       ]
     },
     {
-      "index": "12",
+      "number": "12",
       "name": "Bruno",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero121-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Agelta Drylands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Bruno.id.select.ogg",
@@ -1912,11 +1967,13 @@
       ]
     },
     {
-      "index": "13",
+      "number": "13",
       "name": "Clint",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero131-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Agelta Drylands",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Clint.id.select.ogg",
@@ -1997,11 +2054,13 @@
       ]
     },
     {
-      "index": "14",
+      "number": "14",
       "name": "Rafaela",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero141-icon.png",
       "role": "Support",
       "lane": "Roaming",
       "region": "Moniyan Empire",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Rafaela.id.select01.ogg",
@@ -2218,11 +2277,13 @@
       ]
     },
     {
-      "index": "15",
+      "number": "15",
       "name": "Eudora",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero151-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Northern Vale",
+      "release": "2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Eudora.id.select.ogg",
@@ -2283,11 +2344,13 @@
       ]
     },
     {
-      "index": "16",
+      "number": "16",
       "name": "Zilong",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero161-icon.png",
       "role": "Fighter/Assassin",
       "lane": "EXP Lane",
       "region": "Cadia Riverlands",
+      "release": "9 September 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Zilong.id.select.ogg",
@@ -2456,11 +2519,13 @@
       ]
     },
     {
-      "index": "17",
+      "number": "17",
       "name": "Fanny",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Moniyan Empire",
+      "release": "30 September 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Fanny.id.select.ogg",
@@ -2665,11 +2730,13 @@
       ]
     },
     {
-      "index": "18",
+      "number": "18",
       "name": "Layla",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero181-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Agelta Drylands",
+      "release": "23 September 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Layla.id.select.ogg",
@@ -2982,11 +3049,13 @@
       ]
     },
     {
-      "index": "19",
+      "number": "19",
       "name": "Minotaur",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero191-icon.png",
       "role": "Tank/Support",
       "lane": "Roaming",
       "region": "Agelta Drylands",
+      "release": "14 October 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Minotaur.id.select.ogg",
@@ -3079,11 +3148,13 @@
       ]
     },
     {
-      "index": "21",
+      "number": "21",
       "name": "Hayabusa",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Cadia Riverlands",
+      "release": "4 November 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hayabusa.id.select.ogg",
@@ -3368,11 +3439,13 @@
       ]
     },
     {
-      "index": "22",
+      "number": "22",
       "name": "Freya",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero221-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Northern Vale",
+      "release": "November 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Freya.id.select.ogg",
@@ -3561,11 +3634,13 @@
       ]
     },
     {
-      "index": "23",
+      "number": "23",
       "name": "Gord",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero231-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Northern Vale",
+      "release": "November 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Gord.id.select.ogg",
@@ -3714,11 +3789,13 @@
       ]
     },
     {
-      "index": "24",
+      "number": "24",
       "name": "Natalia",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero241-icon.png",
       "role": "Assassin",
       "lane": "Roaming",
       "region": "Moniyan Empire",
+      "release": "December 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Natalia.id.select.ogg",
@@ -3763,11 +3840,13 @@
       ]
     },
     {
-      "index": "25",
+      "number": "25",
       "name": "Kagura",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Cadia Riverlands",
+      "release": "December 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Kagura.revamp.id.select.ogg",
@@ -3944,11 +4023,13 @@
       ]
     },
     {
-      "index": "26",
+      "number": "26",
       "name": "Chou",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane/Roaming",
       "region": "Eruditio",
+      "release": "December 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Chou.id.select.ogg",
@@ -4181,11 +4262,13 @@
       ]
     },
     {
-      "index": "27",
+      "number": "27",
       "name": "Sun",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero271-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane/Jungling",
       "region": "Cadia Riverlands",
+      "release": "December 2016",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Sun.id.select.ogg",
@@ -4246,11 +4329,13 @@
       ]
     },
     {
-      "index": "28",
+      "number": "28",
       "name": "Alpha",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero281-icon.png",
       "role": "Fighter",
       "lane": "Jungling/EXP Lane",
       "region": "Agelta Drylands",
+      "release": "January 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Alpha.id.select.ogg",
@@ -4399,11 +4484,13 @@
       ]
     },
     {
-      "index": "29",
+      "number": "29",
       "name": "Ruby",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero291-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Moniyan Empire",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Ruby.id.select.ogg",
@@ -4448,11 +4535,13 @@
       ]
     },
     {
-      "index": "30",
+      "number": "30",
       "name": "Yi Sun-shin",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png",
       "role": "Assassin/Marksman",
       "lane": "Jungling",
       "region": "Cadia Riverlands",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Yss.id.select.ogg",
@@ -4513,11 +4602,13 @@
       ]
     },
     {
-      "index": "31",
+      "number": "31",
       "name": "Moskov",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero311-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Agelta Drylands",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Moskov.id.select.ogg",
@@ -4666,11 +4757,13 @@
       ]
     },
     {
-      "index": "32",
+      "number": "32",
       "name": "Johnson",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero321-icon.png",
       "role": "Tank/Support",
       "lane": "Roaming",
       "region": "Agelta Drylands",
+      "release": "14 March 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Audio1321-select.id.ogg",
@@ -4939,11 +5032,13 @@
       ]
     },
     {
-      "index": "34",
+      "number": "34",
       "name": "Estes",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero341-icon.png",
       "role": "Support",
       "lane": "Roaming",
       "region": "Azrya Woodlands",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Estes.id.select.ogg",
@@ -5008,11 +5103,13 @@
       ]
     },
     {
-      "index": "35",
+      "number": "35",
       "name": "Hilda",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero351-icon.png",
       "role": "Fighter/Tank",
       "lane": "Roaming/EXP Lane",
       "region": "Northern Vale",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hilda.id.select.ogg",
@@ -5081,11 +5178,13 @@
       ]
     },
     {
-      "index": "36",
+      "number": "36",
       "name": "Aurora",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero361-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Northern Vale",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Aurora.id.select.ogg",
@@ -5146,11 +5245,13 @@
       ]
     },
     {
-      "index": "37",
+      "number": "37",
       "name": "Lapu-Lapu",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero371-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Vonetis Islands",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Lapu-lapu.id.select.ogg",
@@ -5223,11 +5324,13 @@
       ]
     },
     {
-      "index": "38",
+      "number": "38",
       "name": "Vexana",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero381-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "The Barren Lands",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Audio381-select.id.ogg",
@@ -5372,11 +5475,13 @@
       ]
     },
     {
-      "index": "40",
+      "number": "40",
       "name": "Karrie",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero401-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Alaghat",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Karrie.id.select.ogg",
@@ -5413,11 +5518,13 @@
       ]
     },
     {
-      "index": "41",
+      "number": "41",
       "name": "Gatotkaca",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero411-icon.png",
       "role": "Tank/Fighter",
       "lane": "Roaming/EXP Lane",
       "region": "Nebula Chronorift",
+      "release": "July 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Gatotkaca.id.select.ogg",
@@ -5466,11 +5573,13 @@
       ]
     },
     {
-      "index": "42",
+      "number": "42",
       "name": "Harley",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero421-icon.png",
       "role": "Assassin/Mage",
       "lane": "Jungling",
       "region": "Northern Vale",
+      "release": "29 July 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Harley.id.select.ogg",
@@ -5687,11 +5796,13 @@
       ]
     },
     {
-      "index": "45",
+      "number": "45",
       "name": "Argus",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "The Barren Lands",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Argus.id.select.ogg",
@@ -5852,11 +5963,13 @@
       ]
     },
     {
-      "index": "46",
+      "number": "46",
       "name": "Odette",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero461-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Moniyan Empire",
+      "release": "29 September 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Odette.id.select.ogg",
@@ -6013,11 +6126,13 @@
       ]
     },
     {
-      "index": "47",
+      "number": "47",
       "name": "Lancelot",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Moniyan Empire",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Lancelot.id.select.ogg",
@@ -6230,11 +6345,13 @@
       ]
     },
     {
-      "index": "48",
+      "number": "48",
       "name": "Diggie",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero481-icon.png",
       "role": "Support",
       "lane": "Roaming",
       "region": "Agelta Drylands",
+      "release": "19 November 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Diggie.id.select.ogg",
@@ -6327,11 +6444,13 @@
       ]
     },
     {
-      "index": "50",
+      "number": "50",
       "name": "Zhask",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero501-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Kastiya",
+      "release": "2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Zhask.id.select.ogg",
@@ -6420,11 +6539,13 @@
       ]
     },
     {
-      "index": "52",
+      "number": "52",
       "name": "Pharsa",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero521-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "The Barren Lands",
+      "release": "27 December 2017",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Pharsa.id.select.ogg",
@@ -6477,11 +6598,13 @@
       ]
     },
     {
-      "index": "53",
+      "number": "53",
       "name": "Lesley",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png",
       "role": "Marksman/Assassin",
       "lane": "Gold Lane",
       "region": "Moniyan Empire",
+      "release": "January 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Lesley.id.select.ogg",
@@ -6698,11 +6821,13 @@
       ]
     },
     {
-      "index": "54",
+      "number": "54",
       "name": "Jawhead",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero541-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane/Jungling",
       "region": "Laboratory 1718",
+      "release": "January 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Jawhead.id.select.ogg",
@@ -6751,11 +6876,13 @@
       ]
     },
     {
-      "index": "55",
+      "number": "55",
       "name": "Angela",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png",
       "role": "Support",
       "lane": "Roaming",
       "region": "Laboratory 1718",
+      "release": "6 February 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Angela.id.select.ogg",
@@ -7000,11 +7127,13 @@
       ]
     },
     {
-      "index": "56",
+      "number": "56",
       "name": "Gusion",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero561-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Moniyan Empire",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Gusion.id.select.ogg",
@@ -7277,11 +7406,13 @@
       ]
     },
     {
-      "index": "57",
+      "number": "57",
       "name": "Valir",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero571-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Agelta Drylands",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Valir.id.select.ogg",
@@ -7506,11 +7637,13 @@
       ]
     },
     {
-      "index": "58",
+      "number": "58",
       "name": "Martis",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero581-icon.png",
       "role": "Fighter",
       "lane": "Jungling",
       "region": "Nebula Chronorift",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Martis.id.select.ogg",
@@ -7723,11 +7856,13 @@
       ]
     },
     {
-      "index": "60",
+      "number": "60",
       "name": "Hanabi",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero601-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Cadia Riverlands",
+      "release": "17 April 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hanabi.id.select.ogg",
@@ -7892,11 +8027,13 @@
       ]
     },
     {
-      "index": "61",
+      "number": "61",
       "name": "Chang'e",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Cadia Riverlands",
+      "release": "30 May 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Chang%27e.id.select.ogg",
@@ -8125,11 +8262,13 @@
       ]
     },
     {
-      "index": "62",
+      "number": "62",
       "name": "Kaja",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png",
       "role": "Support/Fighter",
       "lane": "Roaming",
       "region": "Celestial Palace",
+      "release": "25 April 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Kaja.id.select.ogg",
@@ -8182,11 +8321,13 @@
       ]
     },
     {
-      "index": "63",
+      "number": "63",
       "name": "Selena",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero631-icon.png",
       "role": "Assassin/Mage",
       "lane": "Roaming/Mid Lane",
       "region": "The Barren Lands",
+      "release": "10 July 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Selena.id.select.ogg",
@@ -8487,11 +8628,13 @@
       ]
     },
     {
-      "index": "64",
+      "number": "64",
       "name": "Aldous",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero641-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Agelta Drylands",
+      "release": "24 July 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Aldous.id.select.ogg",
@@ -8644,11 +8787,13 @@
       ]
     },
     {
-      "index": "65",
+      "number": "65",
       "name": "Claude",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero651-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Los Pecados",
+      "release": "7 August 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Claude.id.select.ogg",
@@ -8841,11 +8986,13 @@
       ]
     },
     {
-      "index": "66",
+      "number": "66",
       "name": "Vale",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero661-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Agelta Drylands",
+      "release": "29 January 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Vale.id.select.ogg",
@@ -8970,11 +9117,13 @@
       ]
     },
     {
-      "index": "67",
+      "number": "67",
       "name": "Leomord",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero671-icon.png",
       "role": "Fighter",
       "lane": "Jungling",
       "region": "The Barren Lands",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Audio671-select.id.ogg",
@@ -9155,11 +9304,13 @@
       ]
     },
     {
-      "index": "68",
+      "number": "68",
       "name": "Lunox",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Agelta Drylands",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Lunox.id.select.ogg",
@@ -9316,11 +9467,13 @@
       ]
     },
     {
-      "index": "69",
+      "number": "69",
       "name": "Hanzo",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero691-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Cadia Riverlands",
+      "release": "4 December 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hanzo.id.select.ogg",
@@ -9373,11 +9526,13 @@
       ]
     },
     {
-      "index": "71",
+      "number": "71",
       "name": "Kimmy",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero711-icon.png",
       "role": "Marksman/Mage",
       "lane": "Gold Lane",
       "region": "Moniyan Empire",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Kimmy.id.select.ogg",
@@ -9462,11 +9617,13 @@
       ]
     },
     {
-      "index": "73",
+      "number": "73",
       "name": "Harith",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png",
       "role": "Mage",
       "lane": "Mid Lane/Gold Lane",
       "region": "Moniyan Empire",
+      "release": "November 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Harith.id.select.ogg",
@@ -9531,11 +9688,13 @@
       ]
     },
     {
-      "index": "74",
+      "number": "74",
       "name": "Minsitthar",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero741-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane/Roaming",
       "region": "Cadia Riverlands",
+      "release": "2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Minsitthar.id.select.ogg",
@@ -9596,11 +9755,13 @@
       ]
     },
     {
-      "index": "75",
+      "number": "75",
       "name": "Kadita",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png",
       "role": "Mage/Assassin",
       "lane": "Mid Lane",
       "region": "Vonetis Islands",
+      "release": "18 December 2018",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Kadita.id.select.ogg",
@@ -9653,11 +9814,13 @@
       ]
     },
     {
-      "index": "76",
+      "number": "76",
       "name": "Faramis",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero761-icon.png",
       "role": "Support/Mage",
       "lane": "Mid Lane",
       "region": "The Barren Lands",
+      "release": "18 May 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Audio761-select.id.ogg",
@@ -9794,11 +9957,13 @@
       ]
     },
     {
-      "index": "77",
+      "number": "77",
       "name": "Badang",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Vonetis Islands",
+      "release": "15 January 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Audio771-select.id.ogg",
@@ -9851,11 +10016,13 @@
       ]
     },
     {
-      "index": "78",
+      "number": "78",
       "name": "Khufra",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero781-icon.png",
       "role": "Tank",
       "lane": "Roaming",
       "region": "Agelta Drylands",
+      "release": "12 March 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Audio1781-select.id.ogg",
@@ -9932,11 +10099,13 @@
       ]
     },
     {
-      "index": "79",
+      "number": "79",
       "name": "Granger",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png",
       "role": "Marksman",
       "lane": "Jungling/Gold Lane",
       "region": "Moniyan Empire",
+      "release": "23 April 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Granger.id.select.ogg",
@@ -10129,11 +10298,13 @@
       ]
     },
     {
-      "index": "80",
+      "number": "80",
       "name": "Guinevere",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Moniyan Empire",
+      "release": "21 February 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Guinevere.id.select.ogg",
@@ -10194,11 +10365,13 @@
       ]
     },
     {
-      "index": "81",
+      "number": "81",
       "name": "Esmeralda",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero811-icon.png",
       "role": "Tank/Mage",
       "lane": "EXP Lane",
       "region": "Agelta Drylands",
+      "release": "3 April 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Audio811-select.id.ogg",
@@ -10427,11 +10600,13 @@
       ]
     },
     {
-      "index": "83",
+      "number": "83",
       "name": "X.Borg",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero831-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Agelta Drylands",
+      "release": "9 August 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/X.borg.id.select.ogg",
@@ -10584,11 +10759,13 @@
       ]
     },
     {
-      "index": "84",
+      "number": "84",
       "name": "Ling",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Cadia Riverlands",
+      "release": "24 November 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Ling.id.select.ogg",
@@ -10749,11 +10926,13 @@
       ]
     },
     {
-      "index": "85",
+      "number": "85",
       "name": "Dyrroth",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane/Jungling",
       "region": "The Barren Lands",
+      "release": "25 June 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Dyrroth.id.select.ogg",
@@ -10810,11 +10989,13 @@
       ]
     },
     {
-      "index": "86",
+      "number": "86",
       "name": "Lylia",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero861-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Northern Vale",
+      "release": "23 July 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Lylia.id.select.ogg",
@@ -10883,11 +11064,13 @@
       ]
     },
     {
-      "index": "88",
+      "number": "88",
       "name": "Masha",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero881-icon.png",
       "role": "Fighter/Tank",
       "lane": "EXP Lane",
       "region": "Northern Vale",
+      "release": "17 September 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Masha.id.select.ogg",
@@ -10960,11 +11143,13 @@
       ]
     },
     {
-      "index": "89",
+      "number": "89",
       "name": "Wanwan",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero891-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Cadia Riverlands",
+      "release": "26 November 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Wanwan.id.select.ogg",
@@ -11117,11 +11302,13 @@
       ]
     },
     {
-      "index": "90",
+      "number": "90",
       "name": "Silvanna",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero901-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Moniyan Empire",
+      "release": "17 December 2019",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Silvanna.id.select01.ogg",
@@ -11226,11 +11413,13 @@
       ]
     },
     {
-      "index": "91",
+      "number": "91",
       "name": "Cecilion",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Moniyan Empire",
+      "release": "12 February 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Cecilion.id.select.ogg",
@@ -11319,11 +11508,13 @@
       ]
     },
     {
-      "index": "92",
+      "number": "92",
       "name": "Carmilla",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero921-icon.png",
       "role": "Support/Tank",
       "lane": "Roaming",
       "region": "Moniyan Empire",
+      "release": "17 January 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Carmilla.id.select.ogg",
@@ -11412,11 +11603,13 @@
       ]
     },
     {
-      "index": "93",
+      "number": "93",
       "name": "Atlas",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero931-icon.png",
       "role": "Tank",
       "lane": "Roaming",
       "region": "Northern Vale",
+      "release": "20 March 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Atlas.id.select.ogg",
@@ -11477,11 +11670,13 @@
       ]
     },
     {
-      "index": "94",
+      "number": "94",
       "name": "Popol and Kupa",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero941-icon.png",
       "role": "Marksman",
       "lane": "Jungling/Gold Lane",
       "region": "Northern Vale",
+      "release": "21 April 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Popolandkupa.id.select.ogg",
@@ -11570,11 +11765,13 @@
       ]
     },
     {
-      "index": "95",
+      "number": "95",
       "name": "Yu Zhong",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Cadia Riverlands",
+      "release": "2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Audio951-select01.id.ogg",
@@ -11779,11 +11976,13 @@
       ]
     },
     {
-      "index": "96",
+      "number": "96",
       "name": "Luo Yi",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero961-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Cadia Riverlands",
+      "release": "16 May 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Luoyi.id.select01.ogg",
@@ -11864,11 +12063,13 @@
       ]
     },
     {
-      "index": "97",
+      "number": "97",
       "name": "Benedetta",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png",
       "role": "Assassin/Fighter",
       "lane": "EXP Lane",
       "region": "The Barren Lands",
+      "release": "7 November 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Benedetta.id.select.ogg",
@@ -12021,11 +12222,13 @@
       ]
     },
     {
-      "index": "98",
+      "number": "98",
       "name": "Khaleed",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero981-icon.png",
       "role": "Fighter",
       "lane": "EXP Lane",
       "region": "Agelta Drylands",
+      "release": "7 August 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Khaleed.id.select.ogg",
@@ -12106,11 +12309,13 @@
       ]
     },
     {
-      "index": "101",
+      "number": "101",
       "name": "Yve",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero1011-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Northern Vale",
+      "release": "12 February 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Yve.id.select.ogg",
@@ -12187,11 +12392,13 @@
       ]
     },
     {
-      "index": "102",
+      "number": "102",
       "name": "Mathilda",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1021-icon.png",
       "role": "Support/Assassin",
       "lane": "Roaming",
       "region": "Los Pecados",
+      "release": "12 December 2020",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Mathilda.id.select.ogg",
@@ -12268,11 +12475,13 @@
       ]
     },
     {
-      "index": "103",
+      "number": "103",
       "name": "Paquito",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1031-icon.png",
       "role": "Fighter/Assassin",
       "lane": "EXP Lane",
       "region": "The Barren Lands",
+      "release": "15 January 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Paquito.id.select.ogg",
@@ -12425,11 +12634,13 @@
       ]
     },
     {
-      "index": "105",
+      "number": "105",
       "name": "Beatrix",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1051-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Agelta Drylands",
+      "release": "19 March 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Beatrix.id.select.ogg",
@@ -12574,11 +12785,13 @@
       ]
     },
     {
-      "index": "107",
+      "number": "107",
       "name": "Natan",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1071-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Agelta Drylands",
+      "release": "23 July 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Natan.id.select.ogg",
@@ -12659,11 +12872,13 @@
       ]
     },
     {
-      "index": "109",
+      "number": "109",
       "name": "Aamon",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1091-icon.png",
       "role": "Assassin",
       "lane": "Jungling",
       "region": "Moniyan Empire",
+      "release": "25 October 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Aamon.id.select.ogg",
@@ -12760,11 +12975,13 @@
       ]
     },
     {
-      "index": "110",
+      "number": "110",
       "name": "Valentina",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1101-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Moniyan Empire",
+      "release": "25 November 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Valentina.id.select.ogg",
@@ -12853,11 +13070,13 @@
       ]
     },
     {
-      "index": "112",
+      "number": "112",
       "name": "Floryn",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero1121-icon.png",
       "role": "Support",
       "lane": "Roaming",
       "region": "Agelta Drylands",
+      "release": "22 September 2021",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Floryn.id.select.ogg",
@@ -13066,11 +13285,13 @@
       ]
     },
     {
-      "index": "113",
+      "number": "113",
       "name": "Yin",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png",
       "role": "Fighter/Assassin",
       "lane": "Jungling/EXP Lane",
       "region": "Cadia Riverlands",
+      "release": "18 January 2022",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Yin.id.select.ogg",
@@ -13179,11 +13400,13 @@
       ]
     },
     {
-      "index": "114",
+      "number": "114",
       "name": "Melissa",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1141-icon.png",
       "role": "Marksman",
       "lane": "Gold Lane",
       "region": "Moniyan Empire",
+      "release": "22 February 2022",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Melissa.id.select.ogg",
@@ -13316,11 +13539,13 @@
       ]
     },
     {
-      "index": "115",
+      "number": "115",
       "name": "Xavier",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png",
       "role": "Mage",
       "lane": "Mid Lane",
       "region": "Moniyan Empire",
+      "release": "22 March 2022",
       "audio": [
         {
           "audio": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Xavier.id.select.ogg",
