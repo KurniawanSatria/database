@@ -1,0 +1,1158 @@
+{
+  "creator": "@krniwnstria",
+  "total": 128,
+  "heroes": {
+    "Miya": {
+      "number": "1",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png",
+      "alias": "the Moonlight Archer",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Azrya Woodlands",
+      "release": "2016"
+    },
+    "Balmond": {
+      "number": "2",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero021-icon.png",
+      "alias": "the Bloody Beast",
+      "role": "Fighter",
+      "lanerecc": "Jungling",
+      "region": "The Barren Lands",
+      "release": "2016"
+    },
+    "Saber": {
+      "number": "3",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero031-icon.png",
+      "alias": "the Wandering Sword",
+      "role": "Assassin",
+      "lanerecc": "Jungling/Roaming",
+      "region": "Laboratory 1718",
+      "release": "2016"
+    },
+    "Alice": {
+      "number": "4",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero041-icon.png",
+      "alias": "the Queen of Blood",
+      "role": "Mage/Tank",
+      "lanerecc": "EXP Lane/Jungling",
+      "region": "The Barren Lands",
+      "release": "2016"
+    },
+    "Nana": {
+      "number": "5",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero051-icon.png",
+      "alias": "the Sweet Leonin",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Azrya Woodlands",
+      "release": "2016"
+    },
+    "Tigreal": {
+      "number": "6",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero061-icon.png",
+      "alias": "the Warrior of Dawn",
+      "role": "Tank",
+      "lanerecc": "Roaming",
+      "region": "Moniyan Empire",
+      "release": "2016"
+    },
+    "Alucard": {
+      "number": "7",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png",
+      "alias": "the Demon Hunter",
+      "role": "Fighter/Assassin",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "2016"
+    },
+    "Karina": {
+      "number": "8",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png",
+      "alias": "the Shadow Blade",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Azrya Woodlands",
+      "release": "2016"
+    },
+    "Akai": {
+      "number": "9",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero091-icon.png",
+      "alias": "the Panda Warrior",
+      "role": "Tank",
+      "lanerecc": "Roaming/Jungling",
+      "region": "Cadia Riverlands",
+      "release": "2016"
+    },
+    "Franco": {
+      "number": "10",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero101-icon.png",
+      "alias": "the Frozen Warrior",
+      "role": "Tank",
+      "lanerecc": "Roaming",
+      "region": "Northern Vale",
+      "release": "2016"
+    },
+    "Bane": {
+      "number": "11",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero111-icon.png",
+      "alias": "the Frozen King",
+      "role": "Fighter/Mage",
+      "lanerecc": "Jungling/EXP Lane",
+      "region": "Northern Vale",
+      "release": "2016"
+    },
+    "Bruno": {
+      "number": "12",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero121-icon.png",
+      "alias": "the  Protector",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "2016"
+    },
+    "Clint": {
+      "number": "13",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero131-icon.png",
+      "alias": "the West Justice",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "2016"
+    },
+    "Rafaela": {
+      "number": "14",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero141-icon.png",
+      "alias": "the Wings of Holiness",
+      "role": "Support",
+      "lanerecc": "Roaming",
+      "region": "Moniyan Empire",
+      "release": "2016"
+    },
+    "Eudora": {
+      "number": "15",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero151-icon.png",
+      "alias": "the Lightning Weaver",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Northern Vale",
+      "release": "2016"
+    },
+    "Zilong": {
+      "number": "16",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero161-icon.png",
+      "alias": "the Spear of Dragon",
+      "role": "Fighter/Assassin",
+      "lanerecc": "EXP Lane",
+      "region": "Cadia Riverlands",
+      "release": "9 September 2016"
+    },
+    "Fanny": {
+      "number": "17",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png",
+      "alias": "the Blade Dancer",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "30 September 2016"
+    },
+    "Layla": {
+      "number": "18",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero181-icon.png",
+      "alias": "the Energy Gunner",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "23 September 2016"
+    },
+    "Minotaur": {
+      "number": "19",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero191-icon.png",
+      "alias": "the Son of Minos",
+      "role": "Tank/Support",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "14 October 2016"
+    },
+    "Lolita": {
+      "number": "20",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero201-icon.png",
+      "alias": "the Steel Elf",
+      "role": "Support/Tank",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "28 October 2016"
+    },
+    "Hayabusa": {
+      "number": "21",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png",
+      "alias": "the Crimson Shadow",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Cadia Riverlands",
+      "release": "4 November 2016"
+    },
+    "Freya": {
+      "number": "22",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero221-icon.png",
+      "alias": "the Valkyrie",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Northern Vale",
+      "release": "November 2016"
+    },
+    "Gord": {
+      "number": "23",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero231-icon.png",
+      "alias": "the Professor of the Mystics",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Northern Vale",
+      "release": "November 2016"
+    },
+    "Natalia": {
+      "number": "24",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero241-icon.png",
+      "alias": "the Bright Claw",
+      "role": "Assassin",
+      "lanerecc": "Roaming",
+      "region": "Moniyan Empire",
+      "release": "December 2016"
+    },
+    "Kagura": {
+      "number": "25",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png",
+      "alias": "the Onmyouji Master",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Cadia Riverlands",
+      "release": "December 2016"
+    },
+    "Chou": {
+      "number": "26",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png",
+      "alias": "the Kung Fu Boy",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane/Roaming",
+      "region": "Eruditio",
+      "release": "December 2016"
+    },
+    "Sun": {
+      "number": "27",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero271-icon.png",
+      "alias": "the Monkey King",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane/Jungling",
+      "region": "Cadia Riverlands",
+      "release": "December 2016"
+    },
+    "Alpha": {
+      "number": "28",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero281-icon.png",
+      "alias": "the Blade of Enmity",
+      "role": "Fighter",
+      "lanerecc": "Jungling/EXP Lane",
+      "region": "Agelta Drylands",
+      "release": "January 2017"
+    },
+    "Ruby": {
+      "number": "29",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero291-icon.png",
+      "alias": "the Little Red Hood",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Moniyan Empire",
+      "release": "2017"
+    },
+    "Yi Sun-shin": {
+      "number": "30",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png",
+      "alias": "the Paenlong Legend",
+      "role": "Assassin/Marksman",
+      "lanerecc": "Jungling",
+      "region": "Cadia Riverlands",
+      "release": "2017"
+    },
+    "Moskov": {
+      "number": "31",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero311-icon.png",
+      "alias": "the Spear of Quiescence",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "2017"
+    },
+    "Johnson": {
+      "number": "32",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero321-icon.png",
+      "alias": "the Wild Engine",
+      "role": "Tank/Support",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "14 March 2017"
+    },
+    "Cyclops": {
+      "number": "33",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero331-icon.png",
+      "alias": "the Starsoul Magician",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Nebula Chronorift",
+      "release": "2017"
+    },
+    "Estes": {
+      "number": "34",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero341-icon.png",
+      "alias": "the Moon Elf King",
+      "role": "Support",
+      "lanerecc": "Roaming",
+      "region": "Azrya Woodlands",
+      "release": "2017"
+    },
+    "Hilda": {
+      "number": "35",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero351-icon.png",
+      "alias": "the Power of Megalith",
+      "role": "Fighter/Tank",
+      "lanerecc": "Roaming/EXP Lane",
+      "region": "Northern Vale",
+      "release": "2017"
+    },
+    "Aurora": {
+      "number": "36",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero361-icon.png",
+      "alias": "the Maiden of the Glacier",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Northern Vale",
+      "release": "2017"
+    },
+    "Lapu-Lapu": {
+      "number": "37",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero371-icon.png",
+      "alias": "the Courageous Blade",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Vonetis Islands",
+      "release": "2017"
+    },
+    "Vexana": {
+      "number": "38",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero381-icon.png",
+      "alias": "the Shimmer of Hope",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "The Barren Lands",
+      "release": "2017"
+    },
+    "Roger": {
+      "number": "39",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero391-icon.png",
+      "alias": "the Dire Wolf Hunter",
+      "role": "Fighter/Marksman",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "25 June 2017"
+    },
+    "Karrie": {
+      "number": "40",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero401-icon.png",
+      "alias": "the Lost Star",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Alaghat",
+      "release": "2017"
+    },
+    "Gatotkaca": {
+      "number": "41",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero411-icon.png",
+      "alias": "the Mighty Legend",
+      "role": "Tank/Fighter",
+      "lanerecc": "Roaming/EXP Lane",
+      "region": "Nebula Chronorift",
+      "release": "July 2017"
+    },
+    "Harley": {
+      "number": "42",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero421-icon.png",
+      "alias": "the Mage Genius",
+      "role": "Assassin/Mage",
+      "lanerecc": "Jungling",
+      "region": "Northern Vale",
+      "release": "29 July 2017"
+    },
+    "Irithel": {
+      "number": "43",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero431-icon.png",
+      "alias": "the Jungle Heart",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Azrya Woodlands",
+      "release": "2017"
+    },
+    "Grock": {
+      "number": "44",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero441-icon.png",
+      "alias": "the Fortress Titan",
+      "role": "Tank/Fighter",
+      "lanerecc": "Roaming",
+      "region": "The Barren Lands",
+      "release": "2017"
+    },
+    "Argus": {
+      "number": "45",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png",
+      "alias": "the Dark Angel",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "The Barren Lands",
+      "release": "2017"
+    },
+    "Odette": {
+      "number": "46",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero461-icon.png",
+      "alias": "the Swan Princess",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Moniyan Empire",
+      "release": "29 September 2017"
+    },
+    "Lancelot": {
+      "number": "47",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png",
+      "alias": "the Blade of Roses",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "2017"
+    },
+    "Diggie": {
+      "number": "48",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero481-icon.png",
+      "alias": "the Timekeeper",
+      "role": "Support",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "19 November 2017"
+    },
+    "Hylos": {
+      "number": "49",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero491-icon.png",
+      "alias": "the Grand Warden",
+      "role": "Tank",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "2017"
+    },
+    "Zhask": {
+      "number": "50",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero501-icon.png",
+      "alias": "the  King of Swarms",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Kastiya",
+      "release": "2017"
+    },
+    "Helcurt": {
+      "number": "51",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero511-icon.png",
+      "alias": "the Shadowbringer",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "The Barren Lands",
+      "release": "2017"
+    },
+    "Pharsa": {
+      "number": "52",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero521-icon.png",
+      "alias": "the Wings of Vengeance",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "The Barren Lands",
+      "release": "27 December 2017"
+    },
+    "Lesley": {
+      "number": "53",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png",
+      "alias": "the Deadly Sniper",
+      "role": "Marksman/Assassin",
+      "lanerecc": "Gold Lane",
+      "region": "Moniyan Empire",
+      "release": "January 2018"
+    },
+    "Jawhead": {
+      "number": "54",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero541-icon.png",
+      "alias": "the Steel Sweetheart",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane/Jungling",
+      "region": "Laboratory 1718",
+      "release": "January 2018"
+    },
+    "Angela": {
+      "number": "55",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png",
+      "alias": "the Bunnylove",
+      "role": "Support",
+      "lanerecc": "Roaming",
+      "region": "Laboratory 1718",
+      "release": "6 February 2018"
+    },
+    "Gusion": {
+      "number": "56",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero561-icon.png",
+      "alias": "the Holy Blade",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "2018"
+    },
+    "Valir": {
+      "number": "57",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero571-icon.png",
+      "alias": "the Son of Flames",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Agelta Drylands",
+      "release": "2018"
+    },
+    "Martis": {
+      "number": "58",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero581-icon.png",
+      "alias": "the Ashura King",
+      "role": "Fighter",
+      "lanerecc": "Jungling",
+      "region": "Nebula Chronorift",
+      "release": "2018"
+    },
+    "Uranus": {
+      "number": "59",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero591-icon.png",
+      "alias": "the Aesthereal Defender",
+      "role": "Tank",
+      "lanerecc": "EXP Lane",
+      "region": "Celestial Palace",
+      "release": "2018"
+    },
+    "Hanabi": {
+      "number": "60",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero601-icon.png",
+      "alias": "the Scarlet Flower",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Cadia Riverlands",
+      "release": "17 April 2018"
+    },
+    "Chang'e": {
+      "number": "61",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png",
+      "alias": "the Moon Palace Immortal",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Cadia Riverlands",
+      "release": "30 May 2018"
+    },
+    "Kaja": {
+      "number": "62",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png",
+      "alias": "the Nazar King",
+      "role": "Support/Fighter",
+      "lanerecc": "Roaming",
+      "region": "Celestial Palace",
+      "release": "25 April 2018"
+    },
+    "Selena": {
+      "number": "63",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero631-icon.png",
+      "alias": "the Abyssal Witch",
+      "role": "Assassin/Mage",
+      "lanerecc": "Roaming/Mid Lane",
+      "region": "The Barren Lands",
+      "release": "10 July 2018"
+    },
+    "Aldous": {
+      "number": "64",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero641-icon.png",
+      "alias": "the Soul Contractor",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Agelta Drylands",
+      "release": "24 July 2018"
+    },
+    "Claude": {
+      "number": "65",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero651-icon.png",
+      "alias": "the Master Thief",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Los Pecados",
+      "release": "7 August 2018"
+    },
+    "Vale": {
+      "number": "66",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero661-icon.png",
+      "alias": "the Windtalker",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Agelta Drylands",
+      "release": "29 January 2019"
+    },
+    "Leomord": {
+      "number": "67",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero671-icon.png",
+      "alias": "the Sworn Sword",
+      "role": "Fighter",
+      "lanerecc": "Jungling",
+      "region": "The Barren Lands",
+      "release": "2018"
+    },
+    "Lunox": {
+      "number": "68",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png",
+      "alias": "the Twilight Goddess",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Agelta Drylands",
+      "release": "2018"
+    },
+    "Hanzo": {
+      "number": "69",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero691-icon.png",
+      "alias": "the Akuma Ninja",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Cadia Riverlands",
+      "release": "4 December 2018"
+    },
+    "Belerick": {
+      "number": "70",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero701-icon.png",
+      "alias": "the Guard of Nature",
+      "role": "Tank",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "17 August 2018"
+    },
+    "Kimmy": {
+      "number": "71",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero711-icon.png",
+      "alias": "the Jetpack Rebel",
+      "role": "Marksman/Mage",
+      "lanerecc": "Gold Lane",
+      "region": "Moniyan Empire",
+      "release": "2018"
+    },
+    "Thamuz": {
+      "number": "72",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero721-icon.png",
+      "alias": "the Lord Lava",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "The Barren Lands",
+      "release": "2018"
+    },
+    "Harith": {
+      "number": "73",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png",
+      "alias": "the Time Traveler",
+      "role": "Mage",
+      "lanerecc": "Mid Lane/Gold Lane",
+      "region": "Moniyan Empire",
+      "release": "November 2018"
+    },
+    "Minsitthar": {
+      "number": "74",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero741-icon.png",
+      "alias": "the Courageous Warrior",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane/Roaming",
+      "region": "Cadia Riverlands",
+      "release": "2018"
+    },
+    "Kadita": {
+      "number": "75",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png",
+      "alias": "the Ocean Goddess",
+      "role": "Mage/Assassin",
+      "lanerecc": "Mid Lane",
+      "region": "Vonetis Islands",
+      "release": "18 December 2018"
+    },
+    "Faramis": {
+      "number": "76",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero761-icon.png",
+      "alias": "the Soul Binder",
+      "role": "Support/Mage",
+      "lanerecc": "Mid Lane",
+      "region": "The Barren Lands",
+      "release": "18 May 2019"
+    },
+    "Badang": {
+      "number": "77",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png",
+      "alias": "the Tribal Warrior",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Vonetis Islands",
+      "release": "15 January 2019"
+    },
+    "Khufra": {
+      "number": "78",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero781-icon.png",
+      "alias": "the Desert Tyrant",
+      "role": "Tank",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "12 March 2019"
+    },
+    "Granger": {
+      "number": "79",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png",
+      "alias": "the Death Chanter",
+      "role": "Marksman",
+      "lanerecc": "Jungling/Gold Lane",
+      "region": "Moniyan Empire",
+      "release": "23 April 2019"
+    },
+    "Guinevere": {
+      "number": "80",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png",
+      "alias": "the Ms. Violet",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Moniyan Empire",
+      "release": "21 February 2019"
+    },
+    "Esmeralda": {
+      "number": "81",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero811-icon.png",
+      "alias": "the Astrologer",
+      "role": "Tank/Mage",
+      "lanerecc": "EXP Lane",
+      "region": "Agelta Drylands",
+      "release": "3 April 2019"
+    },
+    "Terizla": {
+      "number": "82",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero821-icon.png",
+      "alias": "the Executioner",
+      "role": "Fighter/Tank",
+      "lanerecc": "EXP Lane",
+      "region": "The Barren Lands",
+      "release": "4 June 2019"
+    },
+    "X.Borg": {
+      "number": "83",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero831-icon.png",
+      "alias": "the Firaga Armor",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Agelta Drylands",
+      "release": "9 August 2019"
+    },
+    "Ling": {
+      "number": "84",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png",
+      "alias": "the Cyan Finch",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Cadia Riverlands",
+      "release": "24 November 2019"
+    },
+    "Dyrroth": {
+      "number": "85",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png",
+      "alias": "the Prince of the Abyss",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane/Jungling",
+      "region": "The Barren Lands",
+      "release": "25 June 2019"
+    },
+    "Lylia": {
+      "number": "86",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero861-icon.png",
+      "alias": "the Little Witch",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Northern Vale",
+      "release": "23 July 2019"
+    },
+    "Baxia": {
+      "number": "87",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero871-icon.png",
+      "alias": "the Mystic Tortoise",
+      "role": "Tank",
+      "lanerecc": "Jungling",
+      "region": "Cadia Riverlands",
+      "release": "8 October 2019"
+    },
+    "Masha": {
+      "number": "88",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero881-icon.png",
+      "alias": "the Wild-oats Fist",
+      "role": "Fighter/Tank",
+      "lanerecc": "EXP Lane",
+      "region": "Northern Vale",
+      "release": "17 September 2019"
+    },
+    "Wanwan": {
+      "number": "89",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero891-icon.png",
+      "alias": "the Agile Tiger",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Cadia Riverlands",
+      "release": "26 November 2019"
+    },
+    "Silvanna": {
+      "number": "90",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero901-icon.png",
+      "alias": "the Imperial Knightess",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Moniyan Empire",
+      "release": "17 December 2019"
+    },
+    "Cecilion": {
+      "number": "91",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png",
+      "alias": "the Embrace of Night",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Moniyan Empire",
+      "release": "12 February 2020"
+    },
+    "Carmilla": {
+      "number": "92",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero921-icon.png",
+      "alias": "the Shadow of Twilight",
+      "role": "Support/Tank",
+      "lanerecc": "Roaming",
+      "region": "Moniyan Empire",
+      "release": "17 January 2020"
+    },
+    "Atlas": {
+      "number": "93",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero931-icon.png",
+      "alias": "the Ocean Gladiator",
+      "role": "Tank",
+      "lanerecc": "Roaming",
+      "region": "Northern Vale",
+      "release": "20 March 2020"
+    },
+    "Popol and Kupa": {
+      "number": "94",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero941-icon.png",
+      "alias": "the Icefield Companions",
+      "role": "Marksman",
+      "lanerecc": "Jungling/Gold Lane",
+      "region": "Northern Vale",
+      "release": "21 April 2020"
+    },
+    "Yu Zhong": {
+      "number": "95",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png",
+      "alias": "the Black Dragon",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Cadia Riverlands",
+      "release": "2020"
+    },
+    "Luo Yi": {
+      "number": "96",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero961-icon.png",
+      "alias": "the Yin-yang Geomancer",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Cadia Riverlands",
+      "release": "16 May 2020"
+    },
+    "Benedetta": {
+      "number": "97",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png",
+      "alias": "the Shadow Ranger",
+      "role": "Assassin/Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "The Barren Lands",
+      "release": "7 November 2020"
+    },
+    "Khaleed": {
+      "number": "98",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero981-icon.png",
+      "alias": "the Desert Scimitar",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Agelta Drylands",
+      "release": "7 August 2020"
+    },
+    "Barats": {
+      "number": "99",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero991-icon.png",
+      "alias": "the Dino Rider",
+      "role": "Tank/Fighter",
+      "lanerecc": "Jungling",
+      "region": "Agelta Drylands",
+      "release": "18 September 2020"
+    },
+    "Brody": {
+      "number": "100",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1001-icon.png",
+      "alias": "the  Lone Star",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "The Barren Lands",
+      "release": "16 October 2020"
+    },
+    "Yve": {
+      "number": "101",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero1011-icon.png",
+      "alias": "the Astrowarden",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Northern Vale",
+      "release": "12 February 2021"
+    },
+    "Mathilda": {
+      "number": "102",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1021-icon.png",
+      "alias": "the Swift Plume",
+      "role": "Support/Assassin",
+      "lanerecc": "Roaming",
+      "region": "Los Pecados",
+      "release": "12 December 2020"
+    },
+    "Paquito": {
+      "number": "103",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1031-icon.png",
+      "alias": "the  Heavenly Fist",
+      "role": "Fighter/Assassin",
+      "lanerecc": "EXP Lane",
+      "region": "The Barren Lands",
+      "release": "15 January 2021"
+    },
+    "Gloo": {
+      "number": "104",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero1041-icon.png",
+      "alias": "the Swamp Spirits",
+      "role": "Tank",
+      "lanerecc": "EXP Lane/Roaming",
+      "region": "Azrya Woodlands",
+      "release": "16 April 2021"
+    },
+    "Beatrix": {
+      "number": "105",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1051-icon.png",
+      "alias": "the Dawnbreak Soldier",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "19 March 2021"
+    },
+    "Phoveus": {
+      "number": "106",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero1061-icon.png",
+      "alias": "the Chains of Sin",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "The Barren Lands",
+      "release": "11 May 2021"
+    },
+    "Natan": {
+      "number": "107",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1071-icon.png",
+      "alias": "the Spacetime Walker",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "23 July 2021"
+    },
+    "Aulus": {
+      "number": "108",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1081-icon.png",
+      "alias": "the Warrior of Ferocity",
+      "role": "Fighter",
+      "lanerecc": "Jungling",
+      "region": "The Barren Lands",
+      "release": "31 August 2021"
+    },
+    "Aamon": {
+      "number": "109",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1091-icon.png",
+      "alias": "the Duke of Shards",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "25 October 2021"
+    },
+    "Valentina": {
+      "number": "110",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1101-icon.png",
+      "alias": "the Prophetess of the Night",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Moniyan Empire",
+      "release": "25 November 2021"
+    },
+    "Edith": {
+      "number": "111",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1111-icon.png",
+      "alias": "the Ancient Guard",
+      "role": "Tank/Marksman",
+      "lanerecc": "EXP Lane/Roaming",
+      "region": "Sanctum Island",
+      "release": "24 December 2021"
+    },
+    "Floryn": {
+      "number": "112",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero1121-icon.png",
+      "alias": "the  Budding Hope",
+      "role": "Support",
+      "lanerecc": "Roaming",
+      "region": "Agelta Drylands",
+      "release": "22 September 2021"
+    },
+    "Yin": {
+      "number": "113",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png",
+      "alias": "the Martial Genius",
+      "role": "Fighter/Assassin",
+      "lanerecc": "Jungling/EXP Lane",
+      "region": "Cadia Riverlands",
+      "release": "18 January 2022"
+    },
+    "Melissa": {
+      "number": "114",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1141-icon.png",
+      "alias": "the Cursed Needle",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Moniyan Empire",
+      "release": "22 February 2022"
+    },
+    "Xavier": {
+      "number": "115",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png",
+      "alias": "the Defier of Light",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Moniyan Empire",
+      "release": "22 March 2022"
+    },
+    "Julian": {
+      "number": "116",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png",
+      "alias": "the Scarlet Raven",
+      "role": "Fighter/Mage",
+      "lanerecc": "Jungling",
+      "region": "Moniyan Empire",
+      "release": "24 May 2022"
+    },
+    "Fredrinn": {
+      "number": "117",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1171-icon.png",
+      "alias": "the Rogue Appraiser",
+      "role": "Fighter/Tank",
+      "lanerecc": "Jungling",
+      "region": "Los Pecados",
+      "release": "12 August 2022"
+    },
+    "Joy": {
+      "number": "118",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero1181-icon.png",
+      "alias": "the Flash of Miracle",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Azrya Woodlands",
+      "release": "18 November 2022"
+    },
+    "Novaria": {
+      "number": "119",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero1191-icon.png",
+      "alias": "the Star Rebel",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Agelta Drylands",
+      "release": "16 May 2023"
+    },
+    "Arlott": {
+      "number": "120",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero1201-icon.png",
+      "alias": "the Lone Lancer",
+      "role": "Fighter/Assassin",
+      "lanerecc": "EXP Lane",
+      "region": "Moniyan Empire",
+      "release": "14 February 2023"
+    },
+    "Ixia": {
+      "number": "121",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero1211-icon.png",
+      "alias": "the Arclight Outlaw",
+      "role": "Marksman",
+      "lanerecc": "Gold Lane",
+      "region": "Agelta Drylands",
+      "release": "8 July 2023"
+    },
+    "Nolan": {
+      "number": "122",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero1221-icon.png",
+      "alias": "the Cosmic Wayfinder",
+      "role": "Assassin",
+      "lanerecc": "Jungling",
+      "region": "Agelta Drylands",
+      "release": "30 September 2023"
+    },
+    "Cici": {
+      "number": "123",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero1231-icon.png",
+      "alias": "the Buoyant Performer",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Moniyan Empire",
+      "release": "27 December 2023"
+    },
+    "Chip": {
+      "number": "124",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1241-icon.png",
+      "alias": "the Phase Technician",
+      "role": "Support/Tank",
+      "lanerecc": "Roaming",
+      "region": "Laboratory 1718",
+      "release": "16 March 2024"
+    },
+    "Zhuxin": {
+      "number": "125",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero1251-icon.png",
+      "alias": "the Beacon of Spirits",
+      "role": "Mage",
+      "lanerecc": "Mid Lane",
+      "region": "Cadia Riverlands",
+      "release": "29 June 2024"
+    },
+    "Suyou": {
+      "number": "126",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1261-icon.png",
+      "alias": "the Mask of the Immortal",
+      "role": "Assassin/Fighter",
+      "lanerecc": "Jungling/EXP Lane",
+      "region": "Cadia Riverlands",
+      "release": "21 September 2024"
+    },
+    "Lukas": {
+      "number": "127",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1271-icon.png",
+      "alias": "the Beast of Light",
+      "role": "Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Moniyan Empire",
+      "release": "21 December 2024"
+    },
+    "Kalea": {
+      "number": "128",
+      "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png",
+      "alias": "the Surging Wave",
+      "role": "Support/Fighter",
+      "lanerecc": "EXP Lane",
+      "region": "Vonetis Sea",
+      "release": "TBA"
+    }
+  }
+}
